@@ -1,0 +1,5 @@
+Step 1: conda create -p venv_cv python==3.10 -y
+
+Step 2: conda activate venv_cv/
+
+Step 3: pip install opencv-python
